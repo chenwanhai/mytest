@@ -29,6 +29,7 @@ public class Test {
         File outputFile = new File("/Users/chenwanhai/Documents" + File.separator + "new.gif");
         MatrixToImageWriter.writeToFile(bitMatrix, format, outputFile);
 
+        // hhhhh
     }
 
 }
