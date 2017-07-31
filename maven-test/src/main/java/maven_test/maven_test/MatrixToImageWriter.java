@@ -15,6 +15,7 @@ public final class MatrixToImageWriter {
     private static final int WHITE = 0xFFFFFFFF;
 
     private MatrixToImageWriter() {
+        // dsdfadfa
     }
 
     public static BufferedImage toBufferedImage(BitMatrix matrix) {
