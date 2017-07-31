@@ -30,6 +30,9 @@ public class Test {
         MatrixToImageWriter.writeToFile(bitMatrix, format, outputFile);
 
         // hhhhh
+
+        // testtest
+        // test
     }
 
 }
